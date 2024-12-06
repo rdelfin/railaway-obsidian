@@ -6,6 +6,7 @@
 | 3   | N/A         | N/A        | N/A           |
 | 4   | Waterdeep   | Daggerford | N/A           |
 | 5   | N/A         | N/A        | Baldur's Gate |
+
 ## Boarding Order
 ### Mirabar
 - PCs board here
