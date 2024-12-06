@@ -1,0 +1,25 @@
+- [[Kogan Hamfist]] gives this quest
+- Suspects cheating happening in the [[Golden Coin]], but no specific names
+- If pushed, guests have reported losing big, but haven't wanted to fess up who
+- 100GP in exchange for catching the responsible party in the act 
+	- Kogan needs SOLID PROOF, either **a confession** or **an explanation** of how the cheating is happening
+## Main Part
+- If players go to the Golden Coin, they will find:
+	- At poker:
+		- [[Hammond Axman]] playing poker
+		- [[Preston Hillmore]] also playing poker
+		- Female elf called Galstine
+		- Member of staff running the game (halfling called Erwick Ferndew)
+	- Chess:
+		- [[Verity Billett]]
+		- [[Somen Gilrona]]
+	- Checkers:
+		- Female Halfling called Frona Crow
+		- Male human called Tom Smith
+- Most people at the poker table seem frustrated (except Hammond)
+	- They will need to play for a bit to realise
+	- If they play, they'll lose 2d6+5 GP
+- If they start struggling, bring out The Gambler
+- If things need to move faster, ask for a perception check (DC 15)
+	- If they go over, they will notice a pendant around his neck
+	- If asked, Hammond will try to deflect, but on an insight check, he'll seem sweaty

@@ -1,0 +1,22 @@
+## Staff
+- [[Alen Trismys]]: Bartender
+- [[Brandr Fintan]]: Engineer
+- [[Kogan Hamfist]]: Head porter & lead attendant
+- [[Porters]]
+- [[Prim, a.k.a. "Knuckles"]]: ticket master (and real boss)
+- [[Raivo Sevara]]: bartender
+- [[Restaurant and Bar Staff]]
+- [[Somen Gilrona]]: Chef
+- [[Tarmo Warberry]]: Conductor
+- [[Verity Billett]]: Musician
+## Guests
+- [[Hammond Axman]]: the gambler and swindler
+- [[Dretin Dalmura]]: the recluse drow
+- [[Lord Tavarious Gammon]]: the noble and unfaithful husband
+- [[Lady Ulume Gammon]]: Lord Gammon's wife
+- [[Esthene Moonshadow]]: Lord Gammon's mistress and Ulume's half sister
+- [[Lord Darus Almanor]]: the noble fraudster and Rakshasa in disguise
+- [[Trackle]]: Lord Gammon and Lady Ulume's goblin servant 
+- [[Bishel Voss]]: Lord Almanor's enchanted underling
+- [[Ryman Thorn]]: The snooping halfling
+- [[Preston Hillmore]]: He really likes anvils

@@ -1,0 +1,16 @@
+- They will be awakened in the middle of the night by the train suddenly stopping (give them full rest)
+- All characters will fall out of bed unless they make a DC 14 athletics check
+	- Small amount of fall damage if they fail (1d6)
+	- Short height, but the horizontal movement causes you substantial pain
+- They'll hears screams from the front of the train
+- If they make their way there, they'll hear a staff member ([[Kogan Hamfist]]?) screaming "Brandr's lost control!"
+## Combat
+- If the players make it to the steam engine, they'll find the hatch fully open with a fire elemental and 1d4 steam mephits
+	- https://roll20.net/compendium/dnd5e/Fire%20Elemental#content
+	- https://roll20.net/compendium/dnd5e/Steam%20Mephit#content
+- [[Brandr Fintan]] is on the floor, unconscious
+	- With a Passive Perception >= 14, they'll notice a golden ring with a ruby on the floor. They won't know what it is without an arcana check (DC 12)
+- If they succeed, they manage to resucitate and wake up Brandr, who asks for the ring back
+- He will point them at [[Tarmo Warberry]] and [[Prim, a.k.a. "Knuckles"]] for a reward
+	- They'll get free travel for life and a ring of cold resistance
+	- The whole party will get advantage on charisma and intelligence checks with all the train staff
