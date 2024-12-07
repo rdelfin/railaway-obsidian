@@ -1,7 +1,6 @@
 p.26 (28 PDF)
 [[NPC Directory]]
-- **Statblock**: Mage
-- **Type**: Staff
+- High elf
 - Conductor
 	- Always dressed in a conductor suit
 - Likes rare languages

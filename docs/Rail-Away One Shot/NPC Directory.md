@@ -1,5 +1,5 @@
 ## Staff
-- [[Alen Trismys]]: Bartender
+- [[Alen Trismys]]: Buttler
 - [[Brandr Fintan]]: Engineer
 - [[Kogan Hamfist]]: Head porter & lead attendant
 - [[Porters]]
